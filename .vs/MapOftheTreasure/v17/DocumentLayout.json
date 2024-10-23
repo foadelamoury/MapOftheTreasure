@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\MapTreasure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|solutionrelative:MapOftheTreasure\\MapTreasure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\maze.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|solutionrelative:MapOftheTreasure\\maze.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\MapTreasure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|solutionrelative:MapOftheTreasure\\MapTreasure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "maze.txt",
               "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\maze.txt",
               "RelativeDocumentMoniker": "MapOftheTreasure\\maze.txt",
@@ -86,17 +86,18 @@
               "RelativeToolTip": "MapOftheTreasure\\maze.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-23T19:49:43.904Z"
+              "WhenOpened": "2024-10-23T19:49:43.904Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MapTreasure.cpp",
               "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\MapTreasure.cpp",
               "RelativeDocumentMoniker": "MapOftheTreasure\\MapTreasure.cpp",
-              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\MapTreasure.cpp",
-              "RelativeToolTip": "MapOftheTreasure\\MapTreasure.cpp",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAuwA4AAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\MapTreasure.cpp*",
+              "RelativeToolTip": "MapOftheTreasure\\MapTreasure.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-23T19:49:31.05Z",
               "EditorCaption": ""
