@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|solutionrelative:MapOftheTreasure\\MapTreasure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\maze.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|solutionrelative:MapOftheTreasure\\maze.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\readtxt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|solutionrelative:MapOftheTreasure\\readtxt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|solutionrelative:MapOftheTreasure\\collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|solutionrelative:MapOftheTreasure\\collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\readtxt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28592CCB-784E-4220-A2DC-435477F0FC4F}|MapOftheTreasure\\MapOftheTreasure.vcxproj|solutionrelative:MapOftheTreasure\\readtxt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,15 +90,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "readtxt.h",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\readtxt.h",
+              "RelativeDocumentMoniker": "MapOftheTreasure\\readtxt.h",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\readtxt.h",
+              "RelativeToolTip": "MapOftheTreasure\\readtxt.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T20:56:43.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "collision.h",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\collision.h",
+              "RelativeDocumentMoniker": "MapOftheTreasure\\collision.h",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\collision.h",
+              "RelativeToolTip": "MapOftheTreasure\\collision.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T20:57:04.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "collision.cpp",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\collision.cpp",
+              "RelativeDocumentMoniker": "MapOftheTreasure\\collision.cpp",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\collision.cpp",
+              "RelativeToolTip": "MapOftheTreasure\\collision.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T20:54:55.972Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "maze.txt",
-              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\maze.txt",
-              "RelativeDocumentMoniker": "MapOftheTreasure\\maze.txt",
-              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\maze.txt",
-              "RelativeToolTip": "MapOftheTreasure\\maze.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-23T19:49:43.904Z"
+              "Title": "readtxt.cpp",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\readtxt.cpp",
+              "RelativeDocumentMoniker": "MapOftheTreasure\\readtxt.cpp",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\readtxt.cpp",
+              "RelativeToolTip": "MapOftheTreasure\\readtxt.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T20:54:07.827Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -94,11 +143,11 @@
               "Title": "MapTreasure.cpp",
               "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\MapTreasure.cpp",
               "RelativeDocumentMoniker": "MapOftheTreasure\\MapTreasure.cpp",
-              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\MapTreasure.cpp*",
-              "RelativeToolTip": "MapOftheTreasure\\MapTreasure.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\MapOftheTreasure\\MapOftheTreasure\\MapTreasure.cpp",
+              "RelativeToolTip": "MapOftheTreasure\\MapTreasure.cpp",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-23T19:49:31.05Z",
+              "WhenOpened": "2024-10-23T20:53:10.404Z",
               "EditorCaption": ""
             }
           ]

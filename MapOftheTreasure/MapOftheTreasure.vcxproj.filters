@@ -18,8 +18,22 @@
     <ClCompile Include="MapTreasure.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="collision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="readtxt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="maze.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="readtxt.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="collision.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

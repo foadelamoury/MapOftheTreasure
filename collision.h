@@ -1,1 +1,0 @@
-bool isCollision(int new_x, int new_y);
